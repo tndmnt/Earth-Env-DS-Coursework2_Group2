@@ -76,4 +76,4 @@ A comprehensive list of references and resources utilized throughout the project
 
 ## Contributors
 
-This project was developed by Group 2 as part of the Earth and Environmental Data Science coursework.
+This project was developed by Cameron Meekums-Spence, Huabin Ye, Tania Diamanta as part of the Earth and Environmental Data Science coursework.
